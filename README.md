@@ -8,7 +8,7 @@
 
 ---
 
-This Python program implements the K-Rail Fence Cipher, a type of transposition cipher, for encrypting and decrypting messages. The K-Rail Fence Cipher involves creating a zigzag pattern of characters in a matrix with 'rails,' and then reading the characters in a specific order to generate the ciphertext or retrieve the original plaintext.
+This Python program implements the K-Rail Fence Cipher, a type of substitution cipher, for encrypting and decrypting messages. The K-Rail Fence Cipher involves creating a zigzag pattern of characters in a matrix with 'rails,' and then reading the characters in a specific order to generate the ciphertext or retrieve the original plaintext.
 
 ### Encryption:
 
