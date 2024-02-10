@@ -1,4 +1,4 @@
-# K-Rail Fence Cipher Algorithm Encrypt/Decrypt (Substitution  Cipher)
+# K-Rail Fence Cipher Algorithm Encrypt/Decrypt (Substitution Cipher)
 # Leo Martinez III
 # Created Sping 2024
 
